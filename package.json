@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "create-react-class": "^15.5.2",
-    "froala-editor": "3.0.6"
+    "froala-editor": "4.3.1"
   },
   "devDependencies": {
     "autoprefixer": "^8.3.0",
